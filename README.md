@@ -116,3 +116,4 @@ flutter run -d web-server
 
 ## Extrutura Excalidraw = Telas do Aplicativo
 ![Construção do Projeto](Excalidraw/Construção%20do%20Projeto.png)
+link: https://excalidraw.com/#json=5CYjegyRifnsz5cVZsSW2,0vfVy5NZNFn3TnFBN9Y4Eg
